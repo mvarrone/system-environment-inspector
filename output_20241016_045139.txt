@@ -1,0 +1,43 @@
+Environment information generated on: 2024-10-16 04:51:39.134297
+
+=== SYSTEM INFORMATION ===
+Platform: Windows 10
+Machine: AMD64
+Processor: 13th Gen Intel(R) Core(TM) i9-13900HX
+
+=== RAM INFORMATION ===
+Total RAM: 31.75 GB
+Available RAM: 13.56 GB
+Used RAM: 18.19 GB
+Memory Usage: 57.3%
+
+=== CPU INFORMATION ===
+CPU Cores (Logical): 32
+CPU Cores (Physical): 24
+CPU Frequency: 2200.00 MHz
+CPU Usage: 1.0%
+
+=== GPU INFORMATION ===
+CUDA Available: Yes
+GPU Name: NVIDIA GeForce RTX 4080 Laptop GPU
+CUDA Version: 11.8
+Driver Version: 560.94
+Total GPU Memory: 11.99 GB
+Used GPU Memory: 3.76 GB
+Free GPU Memory: 8.23 GB
+Memory Usage: 31.36%
+
+=== TENSORFLOW GPU INFORMATION ===
+TensorFlow GPU Available: False
+
+=== OS-SPECIFIC INFORMATION ===
+Windows Version: 10.0.22631
+
+=== INSTALLED PACKAGE VERSIONS ===
+Python Version: 3.9.18
+PyTorch Version: 2.2.1+cu118
+TensorFlow Version: 2.17.0
+
+=== NETWORK INFORMATION ===
+Hostname: LAPTOP-H9HLH4K2
+Local IP: 192.168.150.1

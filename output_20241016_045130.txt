@@ -1,3 +1,4 @@
+Environment information generated on: 2024-10-16 04:51:30.854191
 
 === SYSTEM INFORMATION ===
 Platform: Windows 10
@@ -6,15 +7,15 @@ Processor: 13th Gen Intel(R) Core(TM) i9-13900HX
 
 === RAM INFORMATION ===
 Total RAM: 31.75 GB
-Available RAM: 13.16 GB
-Used RAM: 18.58 GB
-Memory Usage: 58.5%
+Available RAM: 13.53 GB
+Used RAM: 18.22 GB
+Memory Usage: 57.4%
 
 === CPU INFORMATION ===
 CPU Cores (Logical): 32
 CPU Cores (Physical): 24
 CPU Frequency: 2200.00 MHz
-CPU Usage: 1.5%
+CPU Usage: 1.4%
 
 === GPU INFORMATION ===
 CUDA Available: Yes
@@ -22,9 +23,9 @@ GPU Name: NVIDIA GeForce RTX 4080 Laptop GPU
 CUDA Version: 11.8
 Driver Version: 560.94
 Total GPU Memory: 11.99 GB
-Used GPU Memory: 2.13 GB
-Free GPU Memory: 9.87 GB
-Memory Usage: 17.72%
+Used GPU Memory: 3.76 GB
+Free GPU Memory: 8.23 GB
+Memory Usage: 31.36%
 
 === TENSORFLOW GPU INFORMATION ===
 TensorFlow GPU Available: False
