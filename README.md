@@ -50,7 +50,7 @@ The inspector provides detailed information on:
 
 ## Output
 
-The tool provides a detailed report with sections for:
+The tool provides a detailed report using a `output.txt` file with sections for:
 
 - System Information
 - RAM Information
